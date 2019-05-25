@@ -1,0 +1,23 @@
+{	
+	"ADMIN": [ "discord-533220821821423616", "discord-476593015431888896", "discord-542611944838791179", "discord-553153223024705556" ],
+	"MAIN_PORTS": [ 8080 ],
+	"KKUTUHOT_PATH": "/kkutu/data/kkutuhot.json",
+	"PASS":"kkutufree",
+	"PG_USER": "postgres",
+	"PG_PASSWORD": "1234",
+	"PG_PORT": 5432,
+	"PG_DATABASE": "main",
+	"GOOGLE_RECAPTCHA_TO_GUEST": false,
+	"GOOGLE_RECAPTCHA_TO_USER": false,
+	"GOOGLE_RECAPTCHA_SITE_KEY": "Your Google Recaptcha site key Here",
+	"GOOGLE_RECAPTCHA_SECRET_KEY": "Your Google Recaptcha secret key Here",
+	"IS_SECURED": false,
+	"SSL_OPTIONS": {
+		"PRIVKEY": "Your SSL Private Key Here",
+		"CERT": "Your SSL Certificate Here",
+		"CA": "Your SSL CA-Bundle Here",
+		"PFX": "Your PFX Bundle Here",
+		"isPFX": false,
+		"isCA": false
+	}
+}
